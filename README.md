@@ -26,4 +26,4 @@ Este projeto reforça conceitos como:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/HenriquePereira777/projeto-oracle
+git clone https://github.com/HenriquePereira777/projeto-oracle.git
