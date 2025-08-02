@@ -29,5 +29,11 @@ function adicionarAmigo() {
         const sorteado = amigos[indice];
         document.getElementById("resultado").innerHTML = `<li>${sorteado} foi sorteado!</li>`;
     }
+    function resetarLista() {
+        amigos = [];
+        document.getElementById("listaAmigos").innerHTML = "";
+        document.getElementById("resultado").innerHTML = "";
+        document.getElementById("amigo").value = "";
+    }
 
 
